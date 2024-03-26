@@ -9,9 +9,6 @@ Sparkling is a curated collection of languages, frameworks, platforms, and tools
 ## Features 🛠️
 
 - **Languages & Frameworks**: Dive into the world of coding with powerful languages and frameworks like Python, SQL, Azure, and Power BI. 🐍💻
-- **Platforms & Tools**: Build, deploy, and manage your projects with ease using platforms like Heroku and tools like Anaconda, Qt, and Tableau. 🛠️🚀
-- **Design & Development**: Unleash your creativity with design tools such as Figma, Adobe XD, and Adobe AI, and bring your ideas to life. 🎨💻
-- **AI & Project Management**: Explore the realms of artificial intelligence with TensorFlow, and streamline your projects with tools like Seeq, Jira, and Postman. 🤖📊
 
 ## Usage 📝
 
